@@ -1,0 +1,6 @@
+{
+  "name": "HoopIQ NBA Trivia",
+  "description": "NBA sports trivia app with live stats, daily competitive leaderboards, head-to-head challenges, and player stat quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
